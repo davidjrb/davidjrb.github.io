@@ -22,6 +22,9 @@ p{
   overflow: hidden;
   padding: 20px 5vw;
   width: 100%;
+  position: fixed;
+  top: 0;
+  height: auto;
 }
 
 .header-left {
@@ -54,6 +57,7 @@ p{
 .page{
   width: 100%
   height: 100vh;
+  margin-top: 100px;
 }
 
 .main{
@@ -80,17 +84,21 @@ p{
     .header a { font-size: 18px;}
     .l { font-size:18px; }
     p {font-size: 16px;}
-    .header {font-size: 3vmax;}
+    .header {font-size: 3vmax; height: auto;}
 }
 
 @media screen and (max-width:475px) {
     .l { font-size:18px  ; }
     p{font-size:16px;padding: 0;}
     .image{max-width: 12vw}
+    .page{
+      margin-top: 90px;
+    }
     .main{
       float: left;
-      padding: 20px;
+      padding: 5px;
       width: 100%;
+      margin-top: 0px;
     }
     .left {
       float: left;
@@ -114,5 +122,8 @@ p{
 @media screen and (max-width:320px){
   .image{max-width: 10vw}
   .header a {
-    padding: 5px;
+    padding: 5px;}
+  .page{
+      margin-top: 90px;
+    }
 }
