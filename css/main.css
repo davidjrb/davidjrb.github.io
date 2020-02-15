@@ -27,6 +27,14 @@ p{
   padding: 20px 5vw;
   width: 100%;
   position: fixed;
+  height: 100px;
+}
+
+.background-header{
+  top: 0;
+  background-color: red;
+  width: 100%;
+  height: 90px;
 }
 
 .header-left {
@@ -57,7 +65,7 @@ p{
 }
 
 .page{
-  width: 100%
+  width: 100%;
 }
 
 .main{
@@ -100,9 +108,9 @@ p{
 
     .l { font-size:24px  ; }
     p{font-size:18px;padding: 0;}
+
     .main{
       float: left;
-      padding: 20px;
       width: 100%;
     }
 
