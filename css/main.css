@@ -15,6 +15,11 @@ body {
 p{
   font-size: 18px;
 }
+
+.hidden{
+  color: #22252b;
+}
+
 .selfie
 {
   max-width: 300px;
@@ -45,7 +50,7 @@ p{
   float: right;
 }
 
-.header a {
+.header-right a {
   color: inherit;
   float: left;
   text-align: center;
