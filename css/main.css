@@ -17,7 +17,7 @@ p{
 }
 .selfie
 {
-  max-width: 180px;
+  max-width: 300px;
 }
 .header {
   top: 0;
@@ -86,7 +86,8 @@ p{
   width: 10%;
 }
 
-
+img{
+}
 
 @media screen and (max-width:600px) {
     .header a { font-size: 24px;}
