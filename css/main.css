@@ -16,6 +16,16 @@ p{
   font-size: 18px;
 }
 
+.discreet{
+  color: #d9d9d9;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.discreet:hover {
+  text-decoration: underline;
+}
+
 .hidden{
   color: #22252b;
 }
