@@ -8,8 +8,22 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
+.blogpic {
+  width: 30%;
+  height: auto;
+}
+
+.blogtitle {
+  font-size: 24px;
+  text-decoration: underline;
+}
+
 .l {
   font-size: 22px;
+}
+
+.s {
+  font-size: 14px;
 }
 
 p{
