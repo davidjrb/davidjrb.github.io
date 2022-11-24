@@ -8,6 +8,11 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 .blogpic {
   width: 50%;
   height: auto;
