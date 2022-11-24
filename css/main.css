@@ -85,6 +85,7 @@ p{
 
 }
 
+
 .header a:hover {
   text-decoration: underline;
 }
@@ -113,6 +114,28 @@ p{
   float: left;
   padding: 20px;
   width: 10%;
+}
+
+.huge{
+  font-size: 30px;
+}
+
+.index a {
+  color: inherit;
+  padding: 5px;
+  text-decoration: none;
+  line-height: 100%;
+  border-radius: 4px;
+  font-size: 24px;
+
+}
+
+.index a:hover {
+  text-decoration: underline;
+}
+
+.index a.active {
+  text-decoration: underline;
 }
 
 img{
