@@ -8,11 +8,6 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
-img {
-  width: 100%;
-  height: auto;
-}
-
 .blogpic {
   width: 50%;
   height: auto;
@@ -141,6 +136,11 @@ p{
 
 .index a.active {
   text-decoration: underline;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
 
 @media screen and (max-width:600px) {
