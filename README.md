@@ -1,4 +1,4 @@
-![Alt Text](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/D.svg)
+![img](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/D.svg)
 
 ### [davidjrb.github.io](#)
 
@@ -8,7 +8,7 @@
 
 14:38, 24. November, 2022
 
-![test](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/bwghxs.png)
+![img](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/bwghxs.png)
 
 My first attempt at pushing to github...
 
