@@ -1,4 +1,4 @@
-<img src="[https://example.com/image.svg](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/9985f78966e0f63d15064d2a917518931fa0a221/images/D.svg)" alt="Alt Text" />
+<img src="https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/9985f78966e0f63d15064d2a917518931fa0a221/images/D.svg" alt="Alt Text" />
 
 
 # Blog Title
