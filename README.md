@@ -1,10 +1,10 @@
 ![img](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/D.svg)
 
-### [davidjrb.github.io](#)
+### [davidjrb.github.io](davidjrb.github.io)
 
 ---
 
-[Git Push](#)
+### Git Push
 
 14:38, 24. November, 2022
 
