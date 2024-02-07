@@ -3,11 +3,8 @@
 ### [davidjrb.github.io](https://davidjrb.github.io/)
 
 ---
-
+>14:38, 24. November, 2022
 ### Git Push
-
-14:38, 24. November, 2022
-
 ![img](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/bwghxs.png)
 
 My first attempt at pushing to github... ¯\\\_(ツ)\_/¯
