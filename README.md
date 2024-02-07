@@ -1,16 +1,16 @@
-[![Alt Text](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/D.svg)](https://davidjrb.github.io)
+![Alt Text](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/D.svg)
 
-### [Home](#)
+### [davidjrb.github.io](#)
 
 ---
 
-14:38, 24. November, 2022
+[Git Push](#)
 
-[First Git Push](#)
+14:38, 24. November, 2022
 
 ![test](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/bwghxs.png)
 
-This is my first attempt at pushing changes to my website using git. It's long been a goal of mine. But, like with many simple things I procrastinate, it's taken me a few years to get to this point.
+My first attempt at pushing to github...
 
 _"Procrastination is the refusal or inability to be with difficult emotions" (Cory Muscara)_
   
