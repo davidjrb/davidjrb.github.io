@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/D.svg" alt="Alt Text" />
+[![Alt Text](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/D.svg)](https://davidjrb.github.io)
 
+---
 
 # Blog Title
 
