@@ -10,8 +10,10 @@
 
 ![img](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/bwghxs.png)
 
-My first attempt at pushing to github...
+My first attempt at pushing to github... ¯\\\_(ツ)\_/¯
 
-_"Procrastination is the refusal or inability to be with difficult emotions" (Cory Muscara)_
+_"Procrastination is the refusal or inability to be with difficult emotions"_
+
+- [Cory Muscara](https://twitter.com/corymuscara/status/1594717233334427656)
   
-¯\\\_(ツ)\_/¯
+
