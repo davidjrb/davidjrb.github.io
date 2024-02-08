@@ -1,6 +1,4 @@
 
-
----
 14:38, 24. November, 2022
 ### Git Push
 ![img](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/bwghxs.png)
