@@ -1,0 +1,35 @@
+/* General page background and text color */
+body {
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0; /* Light text */
+}
+
+/* Links */
+a {
+    color: #bb86fc; /* Light purple, for example */
+}
+
+/* Adjustments for other elements as needed */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff; /* Light text for headers */
+}
+
+img {
+    border: 1px solid #333; /* Optional: borders for images */
+}
+
+/* Further elements like lists, blockquotes, code blocks etc. */
+ul, ol {
+    color: #e0e0e0;
+}
+
+blockquote {
+    background-color: #333333; /* Darker background for blockquotes */
+    color: #cccccc; /* Lighter text for blockquotes */
+    border-left: 4px solid #bb86fc; /* A light purple border */
+}
+
+pre, code {
+    background-color: #2c2c2c; /* Dark background for code blocks */
+    color: #f0f0f0; /* Light text for code */
+}
