@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  fetch('https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/blogs/posts.json')
+  fetch('/blogs/posts.json')
     .then(response => response.json())
     .then(posts => {
       posts.forEach(postUrl => {
