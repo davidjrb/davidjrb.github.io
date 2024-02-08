@@ -1,8 +1,17 @@
 document.addEventListener('DOMContentLoaded', function() {
-  fetch('https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/README.md')
-    .then(response => response.text())
-    .then(markdown => {
-      document.getElementById('markdownContent').innerHTML = marked.parse(markdown);
+  fetch('https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/blogs/posts.json')
+    .then(response => response.json())
+    .then(posts => {
+      posts.forEach(postUrl => {
+        fetch(postUrl)
+          .then(response => response.text())
+          .then(markdown => {
+            const content = document.createElement('div');
+            content.innerHTML = marked.parse(markdown);
+            document.getElementById('markdownContent').appendChild(content);
+          })
+          .catch(error => console.error('Error loading post:', error));
+      });
     })
-    .catch(error => console.error('Error loading Markdown:', error));
+    .catch(error => console.error('Error loading posts list:', error));
 });
