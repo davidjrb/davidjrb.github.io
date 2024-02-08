@@ -60,10 +60,11 @@ body {
   width: 80%;
 }
 
-/* Apply borders only to images within a specific class */
+/* Apply borders only to images within a specific class
 .markdownContent img {
   border: 1px solid #333;
-}
+} */
+
 
 .left, .right {
   width: 10%;
