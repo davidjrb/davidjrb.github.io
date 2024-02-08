@@ -60,6 +60,11 @@ body {
   width: 80%;
 }
 
+/* Apply borders only to images within a specific class */
+.markdownContent img {
+  border: 1px solid #333;
+}
+
 .left, .right {
   width: 10%;
 }
@@ -78,7 +83,7 @@ a, .discreet, .index a {
 }
 
 img, .blogpic, .selfie {
-  border: 1px solid #333; /* Subtle borders for images */
+  /* border: 1px solid #333; */ /* Commented out to remove borders */
   max-width: 100%; /* Ensuring images are responsive */
 }
 
